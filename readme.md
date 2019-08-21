@@ -1,4 +1,4 @@
-OK, I can see that many people suffer from Photos crash on MacOS, when they have a relatively large library on external drive. I spent a day, and it seems I found solution, that will hopefully help the others. If you experienced Mac crash when Photos tries to upgrade the library and hangs on some 6%, 11% or 66%, leading to system crash, the lessons I learnt will help you. 
+OK, I can see that many people suffer from Photos crash on MacOS, when they have a relatively large library on external drive. I spent a day, and it seems I found solution, that will hopefully help the others. If you experienced Mac crash when Photos tries to upgrade the library and hangs at some 6%, 11% or 66% progress level, then leading to system crash, the lessons I learnt will help you. 
 
 The Bottleneck problem. Use Thunderbolt cable on older Macs, USB-C is fine on new ones. Do not use old USB connection on older Macs. I discovered the Bottleneck while trying simultaneously delete directory via command line and open drive content in Finder. "Resource is busy" and the rainbow ball that you will have. 
 
